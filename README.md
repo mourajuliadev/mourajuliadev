@@ -1,52 +1,49 @@
-#  👋  Olá, eu sou a Júlia!
+# Olá, eu sou a Júlia
 
+Estudante de Análise e Desenvolvimento de Sistemas, focada em construir uma base sólida em programação e desenvolvimento de software.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-
-💻 Também estudando pela  **Alura**.
+Atualmente desenvolvendo projetos práticos e aprofundando conhecimentos por meio dos estudos e cursos da Alura.
 
 ---
 
-## 📚 Tecnologias estudadas
+## Tecnologias e conhecimentos
 
-- JavaScript  
-- HTML  
-- CSS  
-- Git & GitHub
+### Linguagens
+- JavaScript
+- PHP
 - Python
+- Java
+- C#
+
+### Desenvolvimento Web
+- HTML
+- CSS
+
+### Banco de Dados
+- SQL
+- MySQL
+
+### Ferramentas
+- Git
+- GitHub
 
 ---
-##  🎯 Áreas de interesse
-- Desenvolvimento Web  
-- Back-end  
-- Inteligência Artificial 
----
-## 📌  Sobre mim
-Tenho foco em construir uma base sólida em programação e evoluir meus projetos de forma prática ao longo dos estudos.
+
+## Áreas de interesse
+
+- Desenvolvimento Web
+- Back-end
+- Banco de Dados
+- Inteligência Artificial
 
 ---
 
-## 📎 Onde me encontrar
-[LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+## Objetivo
 
+Evoluir continuamente minhas habilidades técnicas através da prática, criando projetos organizados, escaláveis e bem estruturados.
 
+---
 
+## Contato
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
